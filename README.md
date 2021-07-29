@@ -1,1 +1,1 @@
-# MIS2
+# MScIS
